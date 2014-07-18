@@ -1,7 +1,8 @@
 The MIT License (MIT)
 =====================
 
-oXylion Copyright (c) 2014 - All rights reserved
+Copyright 2014(c) oXylion - All rights reserved
+Vedget <vedget_sdk@hotmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
