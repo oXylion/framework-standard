@@ -1,10 +1,10 @@
-MVC Framework PHP - 5.6
+the oXylion "Scarlet Berry" edition 
 ===================================
+    - MVC Framework PHP
+    - App Modern Core
+    - Web Modern Core
 
-    the oXylion "Scarlet Berry" edition. 
- - MVC Framework PHP
- - App Modern Core
- - Web Modern Core
+   [![Build Status](https://travis-ci.org/oXylion/framework-standard.svg?branch=dev)](https://travis-ci.org/oXylion/framework-standard) - Composer.json
 
 System Required:
   -PHP_VERSION: 5.6, (tested via 5.6)  
@@ -31,3 +31,5 @@ System Required:
 
 oXylion-WebApp(build) - PHP[5.6] Framework
 [![Build Status](https://travis-ci.org/oXylion/framework-standard.svg?branch=dev)](https://travis-ci.org/oXylion/framework-standard)
+
+MVC Framework PHP - 5.6
