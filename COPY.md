@@ -1,2 +1,3 @@
-    oXylion webApp Development Inc.
-(c) Copyright 2014 - All rights reserved.
+    oXylion webApp-Developers
+Copyright 2014(c) - All rights reserved.
+
