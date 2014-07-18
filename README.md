@@ -1,10 +1,10 @@
 MVC Framework PHP - 5.6
 ===================================
 
- the oXylion "ScarletBerry" edition. 
+    the oXylion "Scarlet Berry" edition. 
  - MVC Framework PHP
- - App ModernCore
- - Web ModernCore
+ - App Modern Core
+ - Web Modern Core
 
 System Required:
   -PHP_VERSION: 5.6, (tested via 5.6)  
