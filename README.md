@@ -4,7 +4,8 @@ the oXylion "Scarlet Berry" edition
     - App Modern Core
     - Web Modern Core
 
-   [![Build Status](https://travis-ci.org/oXylion/framework-standard.svg?branch=dev)](https://travis-ci.org/oXylion/framework-standard) - Composer.json
+    [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+    [![Build Status](https://travis-ci.org/oXylion/framework-standard.svg?branch=dev)](https://travis-ci.org/oXylion/framework-standard)
 
 System Required:
   -PHP_VERSION: 5.6, (tested via 5.6)  
